@@ -1,2 +1,2 @@
 # atomic-mysql
-java dsl interface for sql mysql implementation
+java dsl for sql mysql implementation
